@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Try another way</name>
+   <tag></tag>
+   <elementGuidId>3d46194a-9e53-485d-b2d2-692713c749fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@name='tryanotherway']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;tryanotherway&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e2c1a98c-b074-498f-b13a-50c928c092f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4e434450-f368-4454-9c90-2deeb62d6c9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_42ft _4jy0 _al4m _4jy6 _517h _51sy</value>
+      <webElementGuid>85ffd1ca-46f8-48c5-9515-f3940d43d738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tryanotherway</value>
+      <webElementGuid>7cb0d583-4c2c-46b9-b679-7dcb4b5dfe26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/recover/initiate/?is_from_lara_screen=1</value>
+      <webElementGuid>134b83c0-d18c-4349-b0ae-1197a6da8609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Try another way</value>
+      <webElementGuid>a8ad5ad3-36d5-4d62-9d6b-9a33b8cbcf7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginform&quot;)/div[@class=&quot;_xkt&quot;]/a[@class=&quot;_42ft _4jy0 _al4m _4jy6 _517h _51sy&quot;]</value>
+      <webElementGuid>83f7fc85-0a1a-4636-9a8f-5a7712699446</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@name='tryanotherway']</value>
+      <webElementGuid>a69b1024-a60b-4065-8b4f-5fe70d975ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginform']/div[3]/a</value>
+      <webElementGuid>0f1de721-633f-4734-850d-2a4966794417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Try another way')]</value>
+      <webElementGuid>ecf4b8f6-ac1e-4e69-a6ad-49c7e8b55442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/following::a[1]</value>
+      <webElementGuid>f6d04089-c0ae-45c2-afca-8a1ec0b89e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not you?'])[1]/following::a[2]</value>
+      <webElementGuid>f406ba1d-1041-4e46-b887-54c904a16cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgotten account?'])[1]/preceding::a[1]</value>
+      <webElementGuid>e38a4b35-5cad-43c2-b654-f1d0ea034b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English (UK)'])[1]/preceding::a[2]</value>
+      <webElementGuid>8a7a14b4-c43d-4ee3-a51f-d67ad6871f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Try another way']/parent::*</value>
+      <webElementGuid>473dc27d-7a60-4091-91ff-c6f1c7167657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/recover/initiate/?is_from_lara_screen=1')]</value>
+      <webElementGuid>a86a58a7-0662-4305-9e26-c7a38aba20ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>9e50715e-87be-4395-95be-c2226d9a5ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@name = 'tryanotherway' and @href = '/recover/initiate/?is_from_lara_screen=1' and (text() = 'Try another way' or . = 'Try another way')]</value>
+      <webElementGuid>114ae526-2823-4a19-8e82-b52a8d20a91b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

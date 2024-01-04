@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Facebook helps you connect and share _ab63fc</name>
+   <tag></tag>
+   <elementGuidId>94c4e2be-bc3f-4e94-8085-5a0e05f41492</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='pass']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pass</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div[1]/div[1]/div/div/div/div[2]/div/div[1]/form/div[1]/div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[1]/div[1]/div/div/div/div[2]/div/div[1]/form/div[1]/div[2]/div/input</value>
+      <webElementGuid>fa99e4d6-a690-4fa0-8aac-44a08ec63599</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='pass']</value>
+      <webElementGuid>b5fabbc7-2506-4b0b-92e9-55179e006b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='passContainer']/input</value>
+      <webElementGuid>67fb910d-0092-436a-a67e-a6edd2676990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>01d2a4e4-acfd-4d93-8018-0ca48981c8d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @name = 'pass' and @id = 'pass' and @placeholder = 'Password']</value>
+      <webElementGuid>288f71d5-3e08-49c8-91c5-4ae9ac922f7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

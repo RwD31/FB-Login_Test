@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log in as Reza Pandaman</name>
+   <tag></tag>
+   <elementGuidId>60f9322f-b0bb-493e-9640-fdef3c4e6959</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header_block']/span/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._2phz > span._50f6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b50c0db8-983e-41ae-83b3-7c412f5eb7a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_50f6</value>
+      <webElementGuid>980df62c-b68d-4175-b92e-088c07a848f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in as Reza Pandaman</value>
+      <webElementGuid>b6228e14-8a19-4c8b-9cd8-13d9f1f531da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header_block&quot;)/span[@class=&quot;_97w1 _50f6&quot;]/div[@class=&quot;_85el&quot;]/div[1]/div[@class=&quot;_2phz&quot;]/span[@class=&quot;_50f6&quot;]</value>
+      <webElementGuid>a1e77f3b-4262-472c-aff4-b5c179c7f335</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header_block']/span/div/div/div[2]/span</value>
+      <webElementGuid>de88216f-7a6a-4541-af8b-60c4bad5acf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not you?'])[1]/preceding::span[2]</value>
+      <webElementGuid>d533b7af-41f9-4053-9bd3-b1ab5f8d33bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in as Reza Pandaman']/parent::*</value>
+      <webElementGuid>6ea63f0d-8dc8-4ad8-9bef-cc1dc8229c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>88e4397b-f349-4271-b8c1-41a18108c461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Log in as Reza Pandaman' or . = 'Log in as Reza Pandaman')]</value>
+      <webElementGuid>34e797a2-3389-4adb-8536-50d5174ab665</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
